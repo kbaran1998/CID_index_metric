@@ -1,5 +1,6 @@
 # CID_index_metric
-GAN Output Metric implementation based on a paper:
-Guan, Shuyue, and Murray Loew. "Evaluation of Generative Adversarial Network Performance Based on Direct Analysis of Generated Images." 2019 IEEE Applied Imagery Pattern Recognition Workshop (AIPR). IEEE, 2019.
+GAN Output Metric implementation based on a [paper](https://www.researchgate.net/publication/343845540_Evaluation_of_Generative_Adversarial_Network_Performance_Based_on_Direct_Analysis_of_Generated_Images):
 
-https://ieeexplore.ieee.org/abstract/document/9174595/?casa_token=Irpsl0kHTuUAAAAA:ldRIWry3s_aiwpBdHElTVmtmCuM3RixMA6rQssdxvbsppdMrveT0vnk2BbvrIMgHZX8Pr7Q-
+```
+Guan, Shuyue, and Murray Loew. "Evaluation of Generative Adversarial Network Performance Based on Direct Analysis of Generated Images." 2019 IEEE Applied Imagery Pattern Recognition Workshop (AIPR). IEEE, 2019.
+```

@@ -2,7 +2,7 @@
 import numpy as np
 from sklearn.cluster import SpectralClustering, AffinityPropagation
 from skimage.metrics import structural_similarity
-
+from sklearn import metrics
 
 """ Returns the normalized similarity value (from 0.0 to 1.0) for the provided pair of images.
     * SSIM: Structural Similarity Index
